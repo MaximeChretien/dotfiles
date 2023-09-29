@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/maxime/Projects/dcs/deccan/streamsdk/build/meta-dcs/recipes-freescale/wayland/weston-init'
+let g:netrw_dirhist_7='/home/maxime/Projects/dcs/deccan/streamsdk/build/meta-dcs/recipes-applications/puk-manager'
+let g:netrw_dirhist_6='/home/maxime/Projects/dcs/deccan/deccan-aldrin-client'
+let g:netrw_dirhist_5='/home/maxime/Projects/dcs/deccan/deccan-yocto/layers/meta-deccan/recipes-applications/deccanet-system-manager'
+let g:netrw_dirhist_4='/home/maxime/Projects/dcs/deccan/deccanet-system-manager'
+let g:netrw_dirhist_3='/home/maxime/Projects/dcs/deccan/mosaic-system-manager/mosaic-system-manager/src/manager'
+let g:netrw_dirhist_2='/home/maxime/Projects/dcs/deccan/alsa2rtp/src/worker'
+let g:netrw_dirhist_1='/home/maxime/Projects/intercore/streamsdk/settings-default'
+let g:netrw_dirhist_0='/home/maxime/Projects/dynaudio/streamsdk/src/modules/dynaudioIpCtrl'
+let g:netrw_dirhist_9='/home/maxime/Projects/viergleicheins/streamplayer/yocto-image/layers/meta-streamplayer-bsp/recipes-multimedia/pipewire'

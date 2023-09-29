@@ -1,0 +1,9 @@
+#!/bin/sh
+Environment=xorg
+XDG_CURRENT_DESKTOP=i3:GNOME
+
+# source /etc/profile does not have any effect
+. /etc/profile
+. ~/.bashrc
+
+exec dbus-launch i3
